@@ -1,5 +1,6 @@
 # Invoice Dashboard with Next.js
 
+https://dashboard-black-one-11.vercel.app/
 ![Example Image](public/landing.png)
 This is a simple web application built with Next.js that provides a dashboard for managing invoices. It allows authorised users to create, delete, and edit invoices. Stats regarding amount collected, amount pending etc. are also displayed. Latest invoices are also shown
 
